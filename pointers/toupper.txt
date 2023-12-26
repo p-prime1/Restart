@@ -1,0 +1,6 @@
+The diif btw the ascci char for lower case and upper case char is 32 
+
+Implementation:
+Write a loop that checks for lower case characters
+if the letter is in lower case add 32
+else continue the loop
