@@ -1,0 +1,11 @@
+Function searches for a substring in another string (both null terminated)
+Accepts two arguments haystack and needle 
+Searches haystack for needle
+
+Implementation:
+Write a while loop till haystack is not equal to the null terminator byte
+Using an if statement check if the index is equal If it is true add an index
+if it isnt break move to the next index on haystack
+If it is add to counter untill needle is equal to null byte
+If needle is equal to null byte return counter
+Then return a null at the end
